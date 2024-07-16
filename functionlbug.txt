@@ -1,0 +1,26 @@
+PS C:\Users\av961\OneDrive\Desktop\OpeninApp> & "C:/Program Files/Python312/python.exe" c:/Users/av961/OneDrive/Desktop/OpeninApp/functional.py
+
+DevTools listening on ws://127.0.0.1:54102/devtools/browser/f5b47151-b769-4265-b906-862fe517e361
+Test Failed: Message: 
+Stacktrace:
+        GetHandleVerifier [0x00007FF663D8EEA2+31554]
+        (No symbol) [0x00007FF663D07ED9]
+        (No symbol) [0x00007FF663BC872A]
+        (No symbol) [0x00007FF663C18434]
+        (No symbol) [0x00007FF663C1853C]
+        (No symbol) [0x00007FF663C5F6A7]
+        (No symbol) [0x00007FF663C3D06F]
+        (No symbol) [0x00007FF663C5C977]
+        (No symbol) [0x00007FF663C3CDD3]
+        (No symbol) [0x00007FF663C0A33B]
+        (No symbol) [0x00007FF663C0AED1]
+        GetHandleVerifier [0x00007FF664098B1D+3217341]
+        GetHandleVerifier [0x00007FF6640E5AE3+3532675]
+        GetHandleVerifier [0x00007FF6640DB0E0+3489152]
+        GetHandleVerifier [0x00007FF663E3E776+750614]
+        (No symbol) [0x00007FF663D1375F]
+        (No symbol) [0x00007FF663D0EB14]
+        (No symbol) [0x00007FF663D0ECA2]
+        (No symbol) [0x00007FF663CFE16F]
+        BaseThreadInitThunk [0x00007FFB5246257D+29]
+        RtlUserThreadStart [0x00007FFB530EAF28+40]
